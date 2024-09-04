@@ -2,7 +2,11 @@
     margin: 0;
     font-family: 'inter';
 }
+h1, h2, h3{
+    text-transform: uppercase;
+}
 #header{
+    margin-top: 50px;
     background-color: burlywood;
 }
 #nameAndWork{
@@ -10,4 +14,11 @@
     width: 500px;
     margin: 0 auto;
     text-align: center;
+}
+#contact{
+    list-style-type: none;
+}
+#contact i{
+    width: 20px;
+    color: burlywood;
 }
