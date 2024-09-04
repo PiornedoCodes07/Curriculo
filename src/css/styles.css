@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    font-family: 'inter';
+}
+#header{
+    background-color: burlywood;
+}
+#nameAndWork{
+    background-color: white;
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
